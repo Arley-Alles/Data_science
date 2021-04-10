@@ -8,4 +8,6 @@ Neste repositório você encontrará alguns *notebooks* que foram desenvolvidos 
 In this repository you are going to find some *notebooks* that were developed for data science, in addition to use of some *machine learning* models in order to predict some desirable variable. I hope you enjoy this work and in case of doubt or suggestion, please contact me!
 
 
+## Notebooks:
+* **Critical analysis about stroke prediction: https://github.com/Arley-Alles/Machine_Learning/blob/main/Stroke_prediction.ipynb; 
 
