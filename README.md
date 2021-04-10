@@ -9,5 +9,5 @@ In this repository you are going to find some *notebooks* that were developed fo
 
 
 ## Notebooks:
-* **Critical analysis about stroke prediction: https://github.com/Arley-Alles/Machine_Learning/blob/main/Stroke_prediction.ipynb; 
+* **Critical analysis about stroke prediction:** https://github.com/Arley-Alles/Machine_Learning/blob/main/Stroke_prediction.ipynb; 
 
