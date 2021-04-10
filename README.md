@@ -1,3 +1,5 @@
 # Machine_Learning
-### O código desenvolvido em Regressão múltipla foi feito com o uso da biblioteca scikit learn para o conjunto de dados de Boston.
-### NaiveBayes foi desenvolvido utilizando o scikit learn para o conjunto de dados "ADULT DATA SET" disponível no UCI.
+
+<p align="center">
+  <img src="https://github.com/Arley-Alles/Machine_Learning/blob/main/Entenda-os-impactos-do-Data-Science-no-setor-de-log%C3%ADstica-1.jpg" >
+</p>
