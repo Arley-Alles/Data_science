@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="/Datascience/Entenda-os-impactos-do-Data-Science-no-setor-de-log%C3%ADstica-1.jpg" >
+  <img src="/Datascience/data science.png" >
 </p>
 
 
