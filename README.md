@@ -10,4 +10,4 @@ In this repository you are going to find some *notebooks* that were developed fo
 
 ## Notebooks:
 * **Critical analysis about stroke prediction:** https://github.com/Arley-Alles/Machine_Learning/blob/main/Stroke_prediction.ipynb; 
-* ** Prediction of dry beans, using bagging classification:** https://github.com/Arley-Alles/Machine_Learning/blob/main/Dry_beans.ipynb;
+* **Prediction of dry beans, using *bagging* classification:** https://github.com/Arley-Alles/Machine_Learning/blob/main/Dry_beans.ipynb;
